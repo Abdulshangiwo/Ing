@@ -1,4 +1,5 @@
-Jest to aplikacja do zarządzania wypożyczalnią samochodów. System pozwala na rejestrowanie aut, klientów oraz obsługę procesów wypożyczania pojazdów przez pracowników.
+Jest to aplikacja zarządzania wypożyczalnią samochodów. System pozwala na rejestrowanie aut, klientów oraz obsługę procesów wypożyczania pojazdów przez pracowników.
+Między innymi:
 Zarządzanie samochodami: Dodawanie aut i dzielenie ich na kategorie (np. sportowe, miejskie).
 Baza klientów: Przechowywanie danych osób, które pożyczają auta.
 Obsługa wypożyczeń: Zapisywanie kto, co i na jak długo pożyczył oraz ile to kosztowało.
